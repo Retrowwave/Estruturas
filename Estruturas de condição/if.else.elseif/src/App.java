@@ -24,6 +24,5 @@ public class App {
         else {
             System.out.println("Você é velho pra caralho.");
         }
-
     }
 }
